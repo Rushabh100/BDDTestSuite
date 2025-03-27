@@ -24,6 +24,7 @@ public class Background {
 		driver.manage().window().maximize();
 
 		Thread.sleep(3000);
+		System.out.println("User is on the Login Page");
 
 	}
 
